@@ -1,0 +1,47 @@
+html body {
+  background-color: rgb(210,180,140);
+}
+
+figcaption{
+    background-color: rgb(210,180,140);
+}
+/*rgb(210,180,140)*/
+#title {
+  text-align: center;
+  font-size: 3em;
+}
+
+#born-death {
+  text-align: center;
+  font-size: 2em;
+}
+
+figcaption {
+  font-size: 1.1em;
+  text-align: center;
+}
+
+#image {
+  max-width: 1000px;
+  max-height: 563px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 25px;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+#intro {
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+li {
+  font-size: 1.2em;
+}
+
+
